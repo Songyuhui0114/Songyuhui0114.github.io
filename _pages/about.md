@@ -76,17 +76,17 @@ Viribus Unitis Semper Fidelis
 
 Sumus Filli Lupae Capitolinae
 ------
-**百二秦关终属楚，三千越甲可吞吴!**
-**Centum duorum Qin portae, ad gloriam Chu tandem redeunt; Tria milia armorum Yue, Wu opprimere possunt!**
-**Deux cents portes de Qin, finalement, appartiennent à Chu ; trois mille guerriers de Yue, capables d’engloutir Wu!**
-**Двести ворот Цинь, в конце концов, принадлежат Чу; три тысячи воинов Юэ могут поглотить У!**
-**Zweihundert Tore von Qin gehören schließlich zu Chu; dreitausend Krieger von Yue können Wu verschlingen!**
+**百二秦关终属楚，三千越甲可吞吴!**  
+**Centum duorum Qin portae, ad gloriam Chu tandem redeunt; Tria milia armorum Yue, Wu opprimere possunt!**  
+**Deux cents portes de Qin, finalement, appartiennent à Chu ; trois mille guerriers de Yue, capables d’engloutir Wu!**  
+**Двести ворот Цинь, в конце концов, принадлежат Чу; три тысячи воинов Юэ могут поглотить У!**  
+**Zweihundert Tore von Qin gehören schließlich zu Chu; dreitausend Krieger von Yue können Wu verschlingen!**  
 
 For more info
 ------
-CV: [Yuhui Song's Curriculum Vitae](.../assets/Curriculum_Vitae.pdf) 
-More posts about *Éléments de Mathématique*: see in this page, *Éléments de Mathématique* part
-More posts about *Mathemetic Physics*: see in this page, *Mathemetic Physics* part
-More posts about *Economics*: see in this page, *Economics* part
-More posts about *LeetCode*: see in this page, *LeetCode* part 
-More posts about *Kaggle*: see in this page, *Kaggle* part 
+CV: [Yuhui Song's Curriculum Vitae](.../assets/Curriculum_Vitae.pdf)   
+More posts about *Éléments de Mathématique*: see in this page, *Éléments de Mathématique* part  
+More posts about *Mathemetic Physics*: see in this page, *Mathemetic Physics* part  
+More posts about *Economics*: see in this page, *Economics* part  
+More posts about *LeetCode*: see in this page, *LeetCode* part   
+More posts about *Kaggle*: see in this page, *Kaggle* part   
