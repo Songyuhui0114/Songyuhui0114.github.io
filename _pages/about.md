@@ -23,31 +23,31 @@ Per Aspera Ad Astra
   *Project: Unconventional Oil and Gas Reservoir Detection*  
   I contributed to developing **deep reinforcement learning models** to detect unconventional oil and gas reservoirs. By building a comprehensive database and training large-scale models, this project aims to improve extraction processes for deep-earth resources.
 
-**China University of Petroleum, Beijing**
+**China University of Petroleum, Beijing**   
   *Project: Challenge Cup Entrepreneurship Plan Competition* 
   I researched **marine flexible hose materials** and developed an entrepreneurial plan for market introduction based on material properties, aiming to enhance the efficiency of offshore oil transport systems.
 
-**China University of Petroleum, Beijing**
+**China University of Petroleum, Beijing**   
   *Project: University Student Technology Innovation Project* 
   My work on the **Hydrogen Transmission Pipeline Technology** focused on integrating international standards for **hydrogen pipeline integrity management**, establishing a unified and stable approach to this emerging field.
 
-**China University of Petroleum, Beijing**
+**China University of Petroleum, Beijing**   
   *Project: Engineering Application Visualization Project* 
   Developed software using **Python and PyQt5** to visualize EI engineering standards, contributing to safer pipeline designs by preventing vibration-induced fatigue failure.
 
-**China University of Petroleum, Beijing**
+**China University of Petroleum, Beijing**   
   *Project: Intelligent Oil and Gas Facility Design Project* 
   Led a team in applying **deep learning (PyTorch)** to simulate the design strength and predict the operational safety of oil and gas facilities, based on real-world engineering challenges.
 
-**China University of Petroleum, Beijing**
+**China University of Petroleum, Beijing**   
   *Project: Physics Experiment Competition* 
   Optimized and calibrated a **Pt100 temperature measurement circuit**, reducing systematic errors and improving measurement accuracy within a 10% deviation.
 
-**China University of Petroleum, Beijing**
+**China University of Petroleum, Beijing**   
   *Project: Social Survey Practical Innovation Project* 
   Conducted a field study in **Linyou County, Shaanxi**, applying fuzzy comprehensive evaluation methods to quantify poverty alleviation outcomes and derive insights for similar regions.
 
-**Сколковский институт науки и технологий & China University of Petroleum, Beijing** 
+**Сколковский институт науки и технологий & China University of Petroleum, Beijing**    
   Participated in designing a **SCADA system** for **real-time pipeline leak monitoring** using **automatic control theory** and **reinforcement learning**.
   Researched **hydrogen pipeline integrity management**, focusing on installation, maintenance, and damage prevention.
   Gained insights into the layered structure of **marine flexible hoses** and contributed to their market launch.
