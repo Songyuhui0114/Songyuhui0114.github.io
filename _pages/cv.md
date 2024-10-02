@@ -20,59 +20,59 @@ redirect_from:
 ## RESEARCH EXPERIENCE
 
 **University of Alberta**  
-**Project**: A Study on the Safety of Probabilistic Assessment of Pipeline Cracks and Corrosion Defects Using Effective Area Models  
+**Project**: Probabilistic Assessment of Pipeline Cracks and Corrosion Defects  
 *Visiting student at Donadeo Innovation Centre for Engineering*  
 *Jan. 2024 - Dec. 2024*  
-- Cracks and corrosion defects in pipelines pose significant safety threats. This study compares probabilistic and deterministic assessment models, such as CorLASTM, RSTRENG, and PSQR, to evaluate safety levels of pipeline defects using effective area models.
+- As a visiting student (2024), I am investigating pipeline safety through the **probabilistic assessment of cracks and corrosion defects**. This study evaluates assessment models (e.g., CorLASTM, RSTRENG) to enhance safety predictions by comparing simplified effective area models with detailed defect profiles.
 
 **University of Alberta**  
-**Project**: Predicting Wax Deposition Problems in Offshore Pipelines Using Reinforcement Learning Models  
+**Project**: Predicting Wax Deposition in Offshore Pipelines Using Reinforcement Learning  
 *Visiting student at Donadeo Innovation Centre for Engineering*  
 *Jan. 2024 - Dec. 2024*  
-- Developed reinforcement learning models to predict wax deposition in offshore pipelines during two-phase flow conditions. The research aims to enhance prediction accuracy and proactive risk management strategies for wax accumulation.
+- This project applies **reinforcement learning models** and **data-driven methods** to predict wax deposition in offshore pipelines under two-phase flow conditions. The goal is to enhance predictive accuracy, enabling proactive measures to improve operational efficiency and safety.
 
 **Moscow State University**  
-**Project**: Unconventional Oil and Gas Reservoir Detection Deep Learning Model  
+**Project**: Unconventional Oil and Gas Reservoir Detection  
 *Research Assistant at the Unconventional Oil and Gas Reservoir Research Lab*  
 *Jul. 2023 - Sep. 2023*  
-- Established a deep-learning model to detect unconventional oil and gas resources and evaluate extraction suitability.
+- I contributed to developing **deep reinforcement learning models** to detect unconventional oil and gas reservoirs. By building a comprehensive database and training large-scale models, this project aims to improve extraction processes for deep-earth resources.
 
-**China University of Petroleum, Beijing**  
-**Project**: "Challenge Cup" Entrepreneurship Plan Competition  
+**China University of Petroleum, Beijing**   
+**Project**: Challenge Cup Entrepreneurship Plan Competition  
 *Nov. 2021 - May 2022*  
-- Researched new marine flexible hose materials and planned market introduction for a novel material.
+- I researched **marine flexible hose materials** and developed an entrepreneurial plan for market introduction based on material properties, aiming to enhance the efficiency of offshore oil transport systems.
 
-**China University of Petroleum, Beijing**  
+**China University of Petroleum, Beijing**   
 **Project**: University Student Technology Innovation Project  
 *Apr. 2022 - Feb. 2023*  
-- Developed a unified standard for hydrogen pipeline integrity management based on international standards and engineering practices.
+- My work on the **Hydrogen Transmission Pipeline Technology** focused on integrating international standards for **hydrogen pipeline integrity management**, establishing a unified and stable approach to this emerging field.
 
-**China University of Petroleum, Beijing**  
-**Project**: Engineering Application Visualization Development Project  
+**China University of Petroleum, Beijing**   
+**Project**: Engineering Application Visualization Project  
 *Jul. 2022 - Nov. 2022*  
-- Developed Python software for visualizing engineering standards using PyQt5, referencing EI guidelines.
+- Developed software using **Python and PyQt5** to visualize EI engineering standards, contributing to safer pipeline designs by preventing vibration-induced fatigue failure.
 
-**China University of Petroleum, Beijing**  
-**Project**: Intelligent Oil and Gas Storage and Transportation Facility Strength Design Project  
+**China University of Petroleum, Beijing**   
+**Project**: Intelligent Oil and Gas Facility Design Project  
 *Mar. 2023 - Jun. 2023*  
-- Simulated pipeline facility strength using PyTorch and predicted operational safety duration based on engineering training data.
+- Led a team in applying **deep learning (PyTorch)** to simulate the design strength and predict the operational safety of oil and gas facilities, based on real-world engineering challenges.
 
-**China University of Petroleum, Beijing**  
-**Project**: National College Student Physics Experiment Competition Project  
+**China University of Petroleum, Beijing**   
+**Project**: Physics Experiment Competition  
 *Mar. 2023 - Jul. 2023*  
-- Optimized Pt100 temperature measurement model and calibrated error, achieving system error control within 10% deviation from theoretical values.
+- Optimized and calibrated a **Pt100 temperature measurement circuit**, reducing systematic errors and improving measurement accuracy within a 10% deviation.
 
-**China University of Petroleum, Beijing**  
-**Project**: University Student Social Survey Practical Innovation Project  
+**China University of Petroleum, Beijing**   
+**Project**: Social Survey Practical Innovation Project  
 *Jan. 2023 - Mar. 2023*  
-- Conducted field research on poverty alleviation models in Linyou County, Shaanxi Province, using hierarchical analysis and fuzzy evaluation methods.
+- Conducted a field study in **Linyou County, Shaanxi**, applying fuzzy comprehensive evaluation methods to quantify poverty alleviation outcomes and derive insights for similar regions.
 
 ## INDUSTRIAL EXPERIENCE
 
-- Participated in SCADA system design for real-time pipeline leak monitoring using automatic control theory and reinforcement learning.
-- Researched hydrogen pipeline integrity management, covering installation, maintenance, damage, and fatigue aspects.
-- Developed a layered structure understanding of marine flexible hoses and planned strategic market launch.
-- Demonstrated expertise in Python3 algorithms and visualization window programming for real-world engineering projects.
+**Сколковский институт науки и технологий & China University of Petroleum, Beijing**    
+- Participated in designing a **SCADA system** for **real-time pipeline leak monitoring** using **automatic control theory** and **reinforcement learning**.  
+- Researched **hydrogen pipeline integrity management**, focusing on installation, maintenance, and damage prevention.  
+- Gained insights into the layered structure of **marine flexible hoses** and contributed to their market launch.  
 
 ## PROFESSIONAL SKILLS
 
