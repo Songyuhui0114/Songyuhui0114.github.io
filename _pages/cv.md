@@ -96,3 +96,7 @@ redirect_from:
 - "Merit Student" title awarded by China University of Petroleum, Beijing.
 - China Petroleum Engineering Design Competition Northern Region Regional Excellence Award.
 - China Petroleum Engineering Design Competition University-Level Third Prize.
+
+## PDF version
+
+[Yuhui Song's Curriculum Vitae](https://songyuhui0114.github.io/assets/Yuhui_Song's_CV.pdf)
