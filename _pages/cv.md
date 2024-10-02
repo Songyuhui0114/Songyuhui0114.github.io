@@ -15,7 +15,7 @@ redirect_from:
 **Bachelor of Engineering** in Oil and Gas Storage and Transportation Engineering  
 *Aug. 2021 - June. 2025*  
 - College of Mechanics and Transportation Engineering  
-- **Areas of Expertise**: Oil and Gas Storage and Transportation; Data-driven methods; Data Science; reinforcement learning; deep learning
+- **Areas of Expertise**: Oil and Gas Storage and Transportation, Data-driven Methods, Data Science, Reinforcement Learning, Deep Learning, Mathematics, Mathematic Physics
 
 ## RESEARCH EXPERIENCE
 
