@@ -84,7 +84,7 @@ Sumus Filli Lupae Capitolinae
 
 For more info
 ------
-CV: [Yuhui Song's Curriculum Vitae](.../assets/Curriculum_Vitae.pdf)   
+CV: [Yuhui Song's Curriculum Vitae](.../assets/Yuhui Song's CV（UA new）.pdf)   
 More posts about *Éléments de Mathématique*: see in this page, *Éléments de Mathématique* part  
 More posts about *Mathemetic Physics*: see in this page, *Mathemetic Physics* part  
 More posts about *Economics*: see in this page, *Economics* part  
