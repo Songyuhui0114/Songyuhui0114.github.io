@@ -74,7 +74,7 @@ Viribus Unitis Semper Fidelis
 6. **Political science must not remain idle in theory!**  
    I am systematically interpreting and compiling classical political theories, much like David Harvey’s work in political theory analysis. Researchers in political science, social sciences, and social philosophy are welcome to join in this endeavor!
 
-Sumus Filli Lupae Capitolinae
+Sumus Filli Lupae Capitolinae!
 ------
 **百二秦关终属楚，三千越甲可吞吴!**  
 **Centum duorum Qin portae, ad gloriam Chu tandem redeunt; Tria milia armorum Yue, Wu opprimere possunt!**  
