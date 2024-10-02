@@ -48,9 +48,9 @@ Per Aspera Ad Astra
   Conducted a field study in **Linyou County, Shaanxi**, applying fuzzy comprehensive evaluation methods to quantify poverty alleviation outcomes and derive insights for similar regions.
 
 **Сколковский институт науки и технологий & China University of Petroleum, Beijing**    
-  Participated in designing a **SCADA system** for **real-time pipeline leak monitoring** using **automatic control theory** and **reinforcement learning**.
-  Researched **hydrogen pipeline integrity management**, focusing on installation, maintenance, and damage prevention.
-  Gained insights into the layered structure of **marine flexible hoses** and contributed to their market launch.
+  Participated in designing a **SCADA system** for **real-time pipeline leak monitoring** using **automatic control theory** and **reinforcement learning**.  
+  Researched **hydrogen pipeline integrity management**, focusing on installation, maintenance, and damage prevention.  
+  Gained insights into the layered structure of **marine flexible hoses** and contributed to their market launch.  
 
 Viribus Unitis Semper Fidelis
 ======
