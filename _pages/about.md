@@ -82,11 +82,3 @@ Sumus Filli Lupae Capitolinae
 **Двести ворот Цинь, в конце концов, принадлежат Чу; три тысячи воинов Юэ могут поглотить У!**  
 **Zweihundert Tore von Qin gehören schließlich zu Chu; dreitausend Krieger von Yue können Wu verschlingen!**  
 
-For more info
-------
-CV: [Yuhui Song's Curriculum Vitae](https://songyuhui0114.github.io/assets/Yuhui_Song's_CV.pdf)   
-More posts about *Éléments de Mathématique*: see in this page, *Éléments de Mathématique* part  
-More posts about *Mathemetic Physics*: see in this page, *Mathemetic Physics* part  
-More posts about *Economics*: see in this page, *Economics* part  
-More posts about *LeetCode*: see in this page, *LeetCode* part   
-More posts about *Kaggle*: see in this page, *Kaggle* part   
