@@ -76,9 +76,9 @@ Viribus Unitis Semper Fidelis
 
 Sumus Filli Lupae Capitolinae!
 ------
-**百二秦关终属楚，三千越甲可吞吴!**  
-**Centum duorum Qin portae, ad gloriam Chu tandem redeunt; Tria milia armorum Yue, Wu opprimere possunt!**  
-**Deux cents portes de Qin, finalement, appartiennent à Chu ; trois mille guerriers de Yue, capables d’engloutir Wu!**  
-**Двести ворот Цинь, в конце концов, принадлежат Чу; три тысячи воинов Юэ могут поглотить У!**  
-**Zweihundert Tore von Qin gehören schließlich zu Chu; dreitausend Krieger von Yue können Wu verschlingen!**  
+百二秦关终属楚，三千越甲可吞吴!  
+Centum duorum Qin portae, ad gloriam Chu tandem redeunt; Tria milia armorum Yue, Wu opprimere possunt!  
+Deux cents portes de Qin, finalement, appartiennent à Chu ; trois mille guerriers de Yue, capables d’engloutir Wu!  
+Двести ворот Цинь, в конце концов, принадлежат Чу; три тысячи воинов Юэ могут поглотить У!  
+Zweihundert Tore von Qin gehören schließlich zu Chu; dreitausend Krieger von Yue können Wu verschlingen!  
 
