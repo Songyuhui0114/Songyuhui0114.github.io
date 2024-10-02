@@ -1,49 +1,92 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "VENI VIDI VICI"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to the research homepage of Yuhui Song, a passionate science & engineering undergraduate student specializing in Oil and Gas Storage and Transportation Engineering at [the China University of Petroleum, Beijing](https://www.cup.edu.cn/). With a strong foundation in mathmetics, mathmetic-physics, data-driven methods, reinforcement learning, deep learning and structure engineering, Yuhui's research primarily focuses on addressing critical cutting-edge challenges in the energy sector, particularly the safety of pipelines and the efficiency of transporting oil and gas. He always tries his best to build some underlying strutures for energy industries, which combines math, physics, machine learning and engineering. His dream is to be like Stephen Wolfram to build the useful and basic structure just like Wolfram Mathematica for all the energy companies. He will fulfill his dream continually with [Dr. Samer Adeeb](https://apps.ualberta.ca/directory/person/adeeb) as a structure engineering Msc. in [the University of Alberta](https://www.ualberta.ca/) in Sep. 2025.
 
-A data-driven personal website
+Per Aspera Ad Astra
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**University of Alberta**  
+  *Project: Probabilistic Assessment of Pipeline Cracks and Corrosion Defects*  
+  As a visiting student (2024), I am investigating pipeline safety through the **probabilistic assessment of cracks and corrosion defects**. This study evaluates assessment models (e.g., CorLASTM, RSTRENG) to enhance safety predictions by comparing simplified effective area models with detailed defect profiles.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**University of Alberta**  
+  *Project: Predicting Wax Deposition in Offshore Pipelines Using Reinforcement Learning*  
+  This project applies **reinforcement learning models** and **data-driven methods** to predict wax deposition in offshore pipelines under two-phase flow conditions. The goal is to enhance predictive accuracy, enabling proactive measures to improve operational efficiency and safety.
 
-Getting started
+**Moscow State University**  
+  *Project: Unconventional Oil and Gas Reservoir Detection*  
+  I contributed to developing **deep reinforcement learning models** to detect unconventional oil and gas reservoirs. By building a comprehensive database and training large-scale models, this project aims to improve extraction processes for deep-earth resources.
+
+**China University of Petroleum, Beijing**
+  *Project: Challenge Cup Entrepreneurship Plan Competition* 
+  I researched **marine flexible hose materials** and developed an entrepreneurial plan for market introduction based on material properties, aiming to enhance the efficiency of offshore oil transport systems.
+
+**China University of Petroleum, Beijing**
+  *Project: University Student Technology Innovation Project* 
+  My work on the **Hydrogen Transmission Pipeline Technology** focused on integrating international standards for **hydrogen pipeline integrity management**, establishing a unified and stable approach to this emerging field.
+
+**China University of Petroleum, Beijing**
+  *Project: Engineering Application Visualization Project* 
+  Developed software using **Python and PyQt5** to visualize EI engineering standards, contributing to safer pipeline designs by preventing vibration-induced fatigue failure.
+
+**China University of Petroleum, Beijing**
+  *Project: Intelligent Oil and Gas Facility Design Project* 
+  Led a team in applying **deep learning (PyTorch)** to simulate the design strength and predict the operational safety of oil and gas facilities, based on real-world engineering challenges.
+
+**China University of Petroleum, Beijing**
+  *Project: Physics Experiment Competition* 
+  Optimized and calibrated a **Pt100 temperature measurement circuit**, reducing systematic errors and improving measurement accuracy within a 10% deviation.
+
+**China University of Petroleum, Beijing**
+  *Project: Social Survey Practical Innovation Project* 
+  Conducted a field study in **Linyou County, Shaanxi**, applying fuzzy comprehensive evaluation methods to quantify poverty alleviation outcomes and derive insights for similar regions.
+
+**Сколковский институт науки и технологий & China University of Petroleum, Beijing** 
+  Participated in designing a **SCADA system** for **real-time pipeline leak monitoring** using **automatic control theory** and **reinforcement learning**.
+  Researched **hydrogen pipeline integrity management**, focusing on installation, maintenance, and damage prevention.
+  Gained insights into the layered structure of **marine flexible hoses** and contributed to their market launch.
+
+Viribus Unitis Semper Fidelis
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Coniungite, vos somniorum venatores totius orbis terrarum, et una ad astra contendite!**
 
-Site-wide configuration
+1. **The Chinese mathematical community cannot be absent from Bourbaki!**  
+   I am translating and providing an in-depth analysis of the *Éléments de Mathématique* by the Bourbaki school, much like previous generations of physicists translated Lev Landau's *Course of Theoretical Physics*. Those proficient in French, German, or English and passionate about mathematics are welcome to join!
+
+2. **Modern mathematical physics must not abandon its classical roots!**  
+   I am integrating and offering detailed analysis of classical theories from 19th-century mathematical physics, aiming to provide a comprehensive framework akin to the *Éléments de Mathématique*. Mathematicians, physicists, and experts in mathematical physics are invited to collaborate!
+
+3. **Modern engineering must not be limited by rigid frameworks!**  
+   I am developing a complete computational framework for energy engineering, particularly in oil and gas storage and transportation, similar to the flexibility of Wolfram Mathematica. Mechanical engineers, energy engineers, and computer scientists are encouraged to contribute!
+
+4. **Systems science must not remain theoretical!**  
+   I am researching the emergence and causal inference mechanisms in complex systems, with the rigor of Einstein’s work on relativity. Experts in neuroscience, psychology, and machine learning are welcome to join this exploration!
+
+5. **Economics must not ignore quantification!**  
+   I am establishing a precise set of definitions and standards for quantifying political economy, akin to von Neumann's modeling of game theory. Scholars in economics, political science, and political economy are invited to participate!
+
+6. **Political science must not remain idle in theory!**  
+   I am systematically interpreting and compiling classical political theories, much like David Harvey’s work in political theory analysis. Researchers in political science, social sciences, and social philosophy are welcome to join in this endeavor!
+
+Sumus Filli Lupae Capitolinae
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**百二秦关终属楚，三千越甲可吞吴!**
+**Centum duorum Qin portae, ad gloriam Chu tandem redeunt; Tria milia armorum Yue, Wu opprimere possunt!**
+**Deux cents portes de Qin, finalement, appartiennent à Chu ; trois mille guerriers de Yue, capables d’engloutir Wu!**
+**Двести ворот Цинь, в конце концов, принадлежат Чу; три тысячи воинов Юэ могут поглотить У!**
+**Zweihundert Tore von Qin gehören schließlich zu Chu; dreitausend Krieger von Yue können Wu verschlingen!**
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+CV: [Yuhui Song's Curriculum Vitae](.../assets/Curriculum_Vitae.pdf) 
+More posts about *Éléments de Mathématique*: see in this page, *Éléments de Mathématique* part
+More posts about *Mathemetic Physics*: see in this page, *Mathemetic Physics* part
+More posts about *Economics*: see in this page, *Economics* part
+More posts about *LeetCode*: see in this page, *LeetCode* part 
+More posts about *Kaggle*: see in this page, *Kaggle* part 
